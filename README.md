@@ -1,4 +1,6 @@
-# 4.1P Event Planner
+# Event Planner
+
+A basic app where you can add or delete events and edit their dates/time/title/category with an user friendly interface. The events' data is saved in an array, alongside with a SQLite database for persistence.
 
 ## NOTE
 
